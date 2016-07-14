@@ -1,0 +1,1 @@
+{"version":3,"sources":["master.scss","variables.scss"],"names":[],"mappings":"AAEA,KACA,WCHY,ADIZ,wBCFc,CDGd","file":"main.min.css","sourcesContent":["@import \"variables\";\r\n\r\nbody {\r\n\tcolor: $white;\r\n\tbackground-color: $grey;\r\n}\r\n","$white: #fff;\r\n$black: #000;\r\n$grey: #3c3c3c;\r\n$orange: orange;"],"sourceRoot":"/source/"}
